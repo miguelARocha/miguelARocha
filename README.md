@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<p align="center">
+  <span>HI</span>
+  
+</p>
+
 <!--
 **miguelARocha/miguelARocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
